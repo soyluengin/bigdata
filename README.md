@@ -14,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/32875227/138423717-5f3cf8d4-db60-4f82-b27b-ad411f28069a.png)
 
 # MongoDb
+![image](https://user-images.githubusercontent.com/32875227/138428015-aae6f48a-8144-467e-9771-d5c87c6ece48.png)
 
 ![image](https://user-images.githubusercontent.com/32875227/138425183-0279a9d2-3386-4936-a6e4-930b26d29ec5.png)
 
